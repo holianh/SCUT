@@ -5,6 +5,8 @@
  - **Nguyễn Tuấn Anh**, NT.Anh@tnut.edu.vn <br/>
   Nghiên cứu sinh trường ĐH Công nghệ Hoa Nam, Quảng châu, Trung Quốc, 2018  
  
+ <<toc>> 
+ 
 # Bước 1: Chuẩn bị tâm thế
 ## Trả lời các câu hỏi sau:
 - Have I done something new and interesting?
